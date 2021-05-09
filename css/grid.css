@@ -2,9 +2,25 @@
   display: grid;
   grid-template-columns: 100px 100px 100px;
   grid-gap: 10px;
-  background-color: deepskyblue;
-  color: #444;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
 }
+
+.grid-wrapper1 {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-gap: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+  }
+
+.grid-wrapper2 {
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-gap: 10px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+  }
 
 .grid-box {
   background-color: #444;

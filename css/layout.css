@@ -1,11 +1,11 @@
-.wrapper {
+.flex-wrapper {
   display: flex;  
   flex-flow: row wrap;
   font-weight: bold;
   text-align: center; 
 }
 
-.wrapper > * {
+.flex-wrapper > * {
   padding: 10px;
   flex: 1 100%;
 }
