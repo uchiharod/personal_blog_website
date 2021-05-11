@@ -2,30 +2,76 @@
   display: grid;
   grid-template-columns: 100px 100px 100px;
   grid-gap: 10px;
-  background: rgba(0, 0, 0, 0.5);
-  color: #fff;
+  background: transparent;
+  color: #000;
 }
 
 .grid-wrapper1 {
     display: grid;
     grid-template-columns: 100px 100px 100px;
     grid-gap: 10px;
-    background: rgba(0, 0, 0, 0.5);
-    color: #fff;
+    background: rgba(255, 255, 255, 0.582);
+    color: #000;
   }
 
 .grid-wrapper2 {
     display: grid;
     grid-template-columns: 100px 100px 100px;
     grid-gap: 10px;
-    background: rgba(0, 0, 0, 0.5);
-    color: #fff;
+    background: rgba(255, 255, 255, 0.582);
+    color: #000;
   }
 
 .grid-box {
-  background-color: #444;
-  color: #fff;
+  background-image: url("../images/bitcoin.jpg");
+  background-repeat: no-repeat;
+  color: #000;
   border-radius: 5px;
-  padding: 20px;
+  padding: 34px;
   font-size: 150%;
 }
+
+.grid-box2 {
+    background-image: url("../images/doge.jpg");
+    background-repeat: no-repeat;
+    color: #000;
+    border-radius: 5px;
+    padding: 34px;
+    font-size: 150%;
+  }
+
+.grid-box3 {
+  background-image: url("../images/eth.jpg");
+  background-repeat: no-repeat;
+  color: #000;
+  border-radius: 5px;
+  padding: 34px;
+  font-size: 150%;
+}
+
+.grid-box4 {
+    background-image: url("../images/shib.jpg");
+    background-repeat: no-repeat;
+    color: #000;
+    border-radius: 5px;
+    padding: 34px;
+    font-size: 150%;
+  }
+
+  .grid-box5 {
+    background-image: url("../images/xrp.jpg");
+    background-repeat: no-repeat;
+    color: #000;
+    border-radius: 5px;
+    padding: 34px;
+    font-size: 150%;
+  }
+
+  .grid-box6 {
+    background-image: url("../images/lite.jpg");
+    background-repeat: no-repeat;
+    color: #000;
+    border-radius: 5px;
+    padding: 34px;
+    font-size: 150%;
+  }

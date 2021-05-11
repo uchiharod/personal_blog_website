@@ -8,6 +8,10 @@
   background: transparent ;
 }
 
+.king {
+  color: white;
+}
+
 .main-image {
   background-image: url("../images/80-808169_stock-market-wallpaper-hd.png");
   background-repeat: no-repeat;
@@ -18,14 +22,14 @@
 
 .main {
   text-align: left;
-  background: rgba(0, 0, 0, 0.5);
-  color: white;
+  background: rgba(255, 255, 255, 0.582);
+  color: #000;
 }
 
 .main-2 {
   text-align: left;
-  background: rgba(0, 0, 0, 0.5);
-  color: white;
+  background: rgba(255, 255, 255, 0.582);
+  color: #000;
 }
 
 .aside-1 {
