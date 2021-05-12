@@ -8,7 +8,7 @@
   background: transparent ;
 }
 
-.king {
+.side {
   color: white;
 }
 
@@ -22,13 +22,29 @@
 
 .main {
   text-align: left;
+  background: rgba(255, 255, 255, 0.882);
+  color: #000;
+}
+
+.card {
+    text-align: left;
+    background: rgba(255, 255, 255, 0.582);
+    color: #000;
+    width: 200px;
+    padding: 10px 20px;
+}
+
+.card2 {
+  text-align: left;
   background: rgba(255, 255, 255, 0.582);
   color: #000;
+  width: 300px;
+  padding: 10px 20px;
 }
 
 .main-2 {
   text-align: left;
-  background: rgba(255, 255, 255, 0.582);
+  background: rgba(255, 255, 255, 0.882);
   color: #000;
 }
 
@@ -38,6 +54,10 @@
 
 .aside-2 {
   background: rgb(20, 0, 201);
+}
+
+.pocket {
+  color: white;
 }
 
 @media all and (min-width: 600px) {
@@ -64,4 +84,29 @@
 
 body {
   padding: 2em; 
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  color: #212529;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: .25rem;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }

@@ -22,6 +22,11 @@
   background: #1565C0;
 }
 
+.navigation a:active {
+  background: #1565C0;
+}
+
+
 @media all and (max-width: 800px) {
   .navigation {
     justify-content: space-around;
