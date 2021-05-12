@@ -33,11 +33,11 @@
 }
 
 .aside-1 {
-  background: gold;
+  background: rgb(2, 126, 22);
 }
 
 .aside-2 {
-  background: hotpink;
+  background: rgb(20, 0, 201);
 }
 
 @media all and (min-width: 600px) {
