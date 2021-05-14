@@ -2,46 +2,47 @@
   display: flex;
   flex-flow: row wrap;
   text-align: center;
-}
-
-.flex-wrapper > * {
+ }
+ 
+ .flex-wrapper > * {
   padding: 10px;
   flex: 1 100%;
-}
-
-.bit-image {
+ }
+ 
+ .bit-image {
   background-image: url("../images/bitcoin.jpg");
   background-repeat: no-repeat;
   width: 100%;
   height: 100%;
   background-size: cover;
-}
-
-.bloghome-row{
+ }
+ 
+ .bloghome-row {
   display: block;
   margin: 20px;
   background: rgba(255, 255, 255, 0.882);
-}
-.bloghome-row:after{
-  content:"";
+ }
+ .bloghome-row:after {
+  content: "";
   display: table;
   clear: both;
-}
-.bloghome-column{
-  width:40%;
-  float:left;
+ }
+ .bloghome-column {
+  width: 40%;
+  float: left;
   padding: 0 5%;
-  color:black;
+  color: black;
   font-family: Verdana;
   font-size: 15px;
-}
-
-@media all and (max-width: 980px) {
-  .bloghome-column{
-    width: 100%;
+ }
+ 
+ @media all and (max-width: 980px) {
+  .bloghome-column {
+   width: 100%;
   }
-
+ 
   p {
-    margin-right: 67px;
+   margin-right: 67px;
   }
-}
+ }
+ 
