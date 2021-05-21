@@ -1,3 +1,4 @@
+/*Get the navigation layout going*/
 .navigation {
   display: flex;
   flex-flow: row wrap;
