@@ -3,6 +3,8 @@
 @import "footer.css";
 @import "grid.css";
 
+
+/*Get the navigation layout going*/
 .header {
     background: transparent;
 }
