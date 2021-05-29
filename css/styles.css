@@ -13,6 +13,7 @@
     color: white;
 }
 
+/*Doing the whole layout*/
 .main-image {
     background-image: url("../images/80-808169_stock-market-wallpaper-hd.png");
     background-repeat: no-repeat;
@@ -67,6 +68,7 @@
     }
 }
 
+/*Doing the media queries*/
 @media all and (min-width: 800px) {
     .main {
         flex: 3 0px;
