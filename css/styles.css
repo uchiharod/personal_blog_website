@@ -68,7 +68,7 @@
     }
 }
 
-/*Doing the media queries*/
+/*Doing the media query*/
 @media all and (min-width: 800px) {
     .main {
         flex: 3 0px;
