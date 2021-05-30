@@ -37,6 +37,7 @@
   font-size: 15px;
  }
  
+ /*Doing the media query*/
  @media all and (max-width: 980px) {
   .bloghome-column {
    width: 100%;
