@@ -9,6 +9,8 @@
   padding: 11px;
   flex: 1 100%;
  }
+
+ /*Extra stuff to put in*/
  
  .bit-image {
   background-image: url("../images/bitcoin.jpg");
