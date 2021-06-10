@@ -9,6 +9,8 @@
   color: #000;
 }
 
+/*Grid Wrappers 2*/
+
 .grid-wrapper1 {
   display: grid;
   grid-template-columns: 100px 100px 100px;
