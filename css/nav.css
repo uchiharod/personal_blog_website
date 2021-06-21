@@ -27,7 +27,7 @@
   background: #1565c0;
 }
 
-/*Doing the media query*/
+/*Doing the navigation media query*/
 @media all and (max-width: 800px) {
   .navigation {
       justify-content: space-around;
