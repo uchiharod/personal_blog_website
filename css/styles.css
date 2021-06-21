@@ -116,6 +116,7 @@ body {
     padding: 2em;
 }
 
+/*Doing the textarea decoration*/
 textarea {
     width: 300px;
     height: 150px;
