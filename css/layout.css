@@ -5,6 +5,7 @@
   text-align: center;
  }
  
+ /*Get the flex wrapper going*/
  .flex-wrapper > * {
   padding: 11px;
   flex: 1 100%;
